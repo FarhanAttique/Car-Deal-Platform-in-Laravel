@@ -13,15 +13,24 @@ The code is a website that displays cars for sale, and the buyer inquires about 
 
 Objectives
 This proposal outlines a comprehensive semester project to develop a Car Deal Platform using the Laravel framework. The platform will enable users to list cars for sale and facilitate secure transactions. The project will encompass various aspects of web development, including frontend design, backend development and database management.
+
 Features
+
 ●	User Registration and Login
+
 ●	Car Listing and Search
+
 ●	Messaging and Notifications
+
 ●	Admin Dashboard
+
 Technology Stack
 ●	Laravel (PHP)
+
 ●	MySQL
+
 ●	HTML5, CSS3, JavaScript
+
 ●	Bootstrap
 
 
