@@ -11,6 +11,21 @@
 
 The code is a website that displays cars for sale, and the buyer inquires about the specifications of the existing cars added by the seller, and also when an order is submitted by the buyer, the requests are sent to the buyer for approval and the sales contract is printed.
 
+Objectives
+This proposal outlines a comprehensive semester project to develop a Car Deal Platform using the Laravel framework. The platform will enable users to list cars for sale and facilitate secure transactions. The project will encompass various aspects of web development, including frontend design, backend development and database management.
+Features
+●	User Registration and Login
+●	Car Listing and Search
+●	Messaging and Notifications
+●	Admin Dashboard
+Technology Stack
+●	Laravel (PHP)
+●	MySQL
+●	HTML5, CSS3, JavaScript
+●	Bootstrap
+
+
+
 ## Application requirements
 
 - **[Node.js](https://nodejs.org/en/)**
@@ -20,7 +35,7 @@ The code is a website that displays cars for sale, and the buyer inquires about 
 - **[Visual Studio Code](https://code.visualstudio.com/)**
 
 ## Application Install
-- git clone git@github.com:abdulfatah1996/carDeal.git
+- git clone https://github.com/FarhanAttique/Car-Deal-Platform-in-Laravel.git
 - cd carDeal
 - composer install
 - copy .env.example to .env
@@ -36,6 +51,5 @@ The code is a website that displays cars for sale, and the buyer inquires about 
 - https://youtu.be/PWDjOHFbddk.
 
 ## Social Media
-- **[Facebook](https://www.facebook.com/abdelfatahMain)**
-- **[Twitter](https://twitter.com/abdelfatah_1996)**
-- **[Youtube](https://www.youtube.com/channel/UCG-AGtKVzTwCIfiL0J3-6_w)**
+- **[Facebook](https://www.facebook.com/profile.php?id=100009431870613)**
+
